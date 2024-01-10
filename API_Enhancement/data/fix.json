@@ -1,0 +1,9 @@
+{
+	"detail":[
+		{
+			"lineItem/UsageAccountId": "467262080079",
+			"lineItem/UsageType": "EU-DataTransfer-Out-Bytes",
+			"lineItem/UnblendedRate": 0.05
+		}
+	]
+}
